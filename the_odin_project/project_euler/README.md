@@ -1,0 +1,1 @@
+Project Euler solution using basic Javascript
